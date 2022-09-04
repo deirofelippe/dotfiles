@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Spirited Away",
+    "window.zoomLevel": -2,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "workbench.editor.enablePreview": false,
+  
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+  
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+  
+    "emmet.syntaxProfiles": {
+      "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "files.associations": {
+      ".sequelizerc": "javascript"
+    },
+  
+    "editor.fontFamily": "'JetBrains Mono', 'Cascadia Code', 'Fantasque Sans', 'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.wordWrap": "on"
+  }
+  
